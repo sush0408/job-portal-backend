@@ -17,7 +17,7 @@ export default registerAs(
             refreshToken: {
                 secretKey:
                     process.env.AUTH_JWT_REFRESH_TOKEN_SECRET_KEY ||
-                    '123456000',
+                    '01001231',
                 expirationTime: process.env.AUTH_JWT_REFRESH_TOKEN_EXPIRED
                     ? ms(process.env.AUTH_JWT_REFRESH_TOKEN_EXPIRED)
                     : ms('7d'), // recommendation for production is 7d

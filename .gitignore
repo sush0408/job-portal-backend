@@ -29,6 +29,7 @@ lerna-debug.log*
 *.sublime-workspace
 
 # IDE - VSCode
+.vscode/
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
@@ -49,3 +50,4 @@ lerna-debug.log*
 .env
 config.yaml
 config.yml
+package-lock.json
