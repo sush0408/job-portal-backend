@@ -17,7 +17,7 @@
 
 > Best uses for Restful API, Microservice, or SaaS Project
 
-ack-nestjs-boilerplate-mongoose is a [NestJs](http://nestjs.com) Boilerplate with [Mongoose](https://mongoosejs.com) and [MongoDB](https://docs.mongodb.com) as Database.
+nestjs-backend is a [NestJs](http://nestjs.com) Boilerplate with [Mongoose](https://mongoosejs.com) and [MongoDB](https://docs.mongodb.com) as Database.
 
 Made with following
 - [nodejs-best-practice](https://github.com/goldbergyoni/nodebestpractices)
@@ -29,7 +29,7 @@ Made with following
 
 ## Important
 
-> ack-nestjs-boilerplate-mongoose still on trial and error phase and the test will base on real projects or cases. So there will be (always) have new update and new features.
+> nestjs-backend still on trial and error phase and the test will base on real projects or cases. So there will be (always) have new update and new features.
 
 If you change env value of `APP_MODE` to `secure` that will trigger more `Middleware` and `Guard`.
 
@@ -58,7 +58,7 @@ Describes which version of the main packages and main tools.
 
 ## Objective
 
-ack-nestjs-boilerplate-mongoose have some objective.
+nestjs-backend have some objective.
 
 - Simple, scalable and secure
 - Avoid spaghetti code
@@ -205,11 +205,11 @@ Thanks goes to these wonderful people
 [![Instagram][instagram-shield]][author-instagram]
 
 <!-- BADGE LINKS -->
-[ack-contributors-shield]: https://img.shields.io/github/contributors/andrechristikan/ack-nestjs-boilerplate-mongoose?style=for-the-badge
-[ack-forks-shield]: https://img.shields.io/github/forks/andrechristikan/ack-nestjs-boilerplate-mongoose?style=for-the-badge
-[ack-stars-shield]: https://img.shields.io/github/stars/andrechristikan/ack-nestjs-boilerplate-mongoose?style=for-the-badge
-[ack-issues-shield]: https://img.shields.io/github/issues/andrechristikan/ack-nestjs-boilerplate-mongoose?style=for-the-badge
-[ack-license-shield]: https://img.shields.io/github/license/andrechristikan/ack-nestjs-boilerplate-mongoose?style=for-the-badge
+[ack-contributors-shield]: https://img.shields.io/github/contributors/andrechristikan/nestjs-backend?style=for-the-badge
+[ack-forks-shield]: https://img.shields.io/github/forks/andrechristikan/nestjs-backend?style=for-the-badge
+[ack-stars-shield]: https://img.shields.io/github/stars/andrechristikan/nestjs-backend?style=for-the-badge
+[ack-issues-shield]: https://img.shields.io/github/issues/andrechristikan/nestjs-backend?style=for-the-badge
+[ack-license-shield]: https://img.shields.io/github/license/andrechristikan/nestjs-backend?style=for-the-badge
 
 [nestjs-shield]: https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white
 [nodejs-shield]: https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
@@ -228,20 +228,20 @@ Thanks goes to these wonderful people
 [author-linkedin]: https://linkedin.com/in/andrechristikan
 [author-instagram]: https://www.instagram.com/___ac.k
 [author-email]: mailto:ack@baibay.id
-[author-github]: https://github.com/andrechristikan
+[author-github]: https://github.com/sush0408
 
 <!-- Repo LINKS -->
-[ack-repo]: https://github.com/andrechristikan/ack-nestjs-boilerplate-mongoose
+[ack-repo]: https://github.com/sush0408/nestjs-backend
 [ack-e2e]: /e2e
-[ack-issues]: https://github.com/andrechristikan/ack-nestjs-boilerplate-mongoose/issues
-[ack-stars]: https://github.com/andrechristikan/ack-nestjs-boilerplate-mongoose/stargazers
-[ack-forks]: https://github.com/andrechristikan/ack-nestjs-boilerplate-mongoose/network/members
-[ack-contributors]: https://github.com/andrechristikan/ack-nestjs-boilerplate-mongoose/graphs/contributors
-[ack-history]: https://github.com/andrechristikan/ack-nestjs-boilerplate-mongoose/commits/main
+[ack-issues]: https://github.com/sush0408/nestjs-backend/issues
+[ack-stars]: https://github.com/sush0408/nestjs-backend/stargazers
+[ack-forks]: https://github.com/sush0408/nestjs-backend/network/members
+[ack-contributors]: https://github.com/sush0408/nestjs-backend/graphs/contributors
+[ack-history]: https://github.com/sush0408/nestjs-backend/commits/main
 [ack-endpoint]: /endpoints/endpoints.json
 
 <!-- ack microservice -->
-[ack-microservice-repo]: https://github.com/andrechristikan/ack-microservice-nestjs-mongoose
+[ack-microservice-repo]: https://github.com/sush0408/ack-microservice-nestjs-mongoose
 
 <!-- license -->
 [license]: LICENSE.md
