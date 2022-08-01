@@ -2671,9 +2671,9 @@ bser@2.1.1:
   dependencies:
     node-int64 "^0.4.0"
 
-bson@^4.6.2, bson@^4.6.3:
-  version "4.6.4"
-  resolved "https://registry.npmjs.org/bson/-/bson-4.6.4.tgz"
+bson@^4.6.5:
+  version "4.6.5"
+  resolved "https://registry.yarnpkg.com/bson/-/bson-4.6.5.tgz#1a410148c20eef4e40d484878a037a7036e840fb"
   dependencies:
     buffer "^5.6.0"
 
@@ -5207,24 +5207,24 @@ mongodb-connection-string-url@^2.5.2:
     "@types/whatwg-url" "^8.2.1"
     whatwg-url "^11.0.0"
 
-mongodb@4.7.0:
-  version "4.7.0"
-  resolved "https://registry.npmjs.org/mongodb/-/mongodb-4.7.0.tgz"
+mongodb@4.8.1:
+  version "4.8.1"
+  resolved "https://registry.yarnpkg.com/mongodb/-/mongodb-4.8.1.tgz#596de88ff4519128266d9254dbe5b781c4005796"
   dependencies:
-    bson "^4.6.3"
+    bson "^4.6.5"
     denque "^2.0.1"
     mongodb-connection-string-url "^2.5.2"
     socks "^2.6.2"
   optionalDependencies:
     saslprep "^1.0.3"
 
-mongoose@^6.4.4:
-  version "6.4.4"
-  resolved "https://registry.npmjs.org/mongoose/-/mongoose-6.4.4.tgz"
+mongoose@^6.5.0:
+  version "6.5.0"
+  resolved "https://registry.yarnpkg.com/mongoose/-/mongoose-6.5.0.tgz#5c71aa8d4027e50bfe8d29d6e955e378e010d174"
   dependencies:
-    bson "^4.6.2"
+    bson "^4.6.5"
     kareem "2.4.1"
-    mongodb "4.7.0"
+    mongodb "4.8.1"
     mpath "0.9.0"
     mquery "4.0.3"
     ms "2.1.3"
@@ -5254,11 +5254,11 @@ ms@2.0.0:
   version "2.0.0"
   resolved "https://registry.npmjs.org/ms/-/ms-2.0.0.tgz"
 
-ms@2.1.2, ms@^2.1.1:
+ms@2.1.2:
   version "2.1.2"
   resolved "https://registry.npmjs.org/ms/-/ms-2.1.2.tgz"
 
-ms@2.1.3:
+ms@2.1.3, ms@^2.1.1:
   version "2.1.3"
   resolved "https://registry.npmjs.org/ms/-/ms-2.1.3.tgz"
 
