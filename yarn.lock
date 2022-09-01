@@ -1690,9 +1690,9 @@
   version "9.0.0"
   resolved "https://registry.npmjs.org/@nestjs/passport/-/passport-9.0.0.tgz"
 
-"@nestjs/platform-express@^9.0.3":
-  version "9.0.3"
-  resolved "https://registry.npmjs.org/@nestjs/platform-express/-/platform-express-9.0.3.tgz"
+"@nestjs/platform-express@^9.0.11":
+  version "9.0.11"
+  resolved "https://registry.yarnpkg.com/@nestjs/platform-express/-/platform-express-9.0.11.tgz#49110e02944f3ea4b14936b3ffaa1060230e642e"
   dependencies:
     body-parser "1.20.0"
     cors "2.8.5"
