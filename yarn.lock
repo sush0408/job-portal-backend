@@ -1723,9 +1723,9 @@
   dependencies:
     check-disk-space "3.3.0"
 
-"@nestjs/testing@^9.0.3":
-  version "9.0.3"
-  resolved "https://registry.npmjs.org/@nestjs/testing/-/testing-9.0.3.tgz"
+"@nestjs/testing@^9.1.2":
+  version "9.1.2"
+  resolved "https://registry.yarnpkg.com/@nestjs/testing/-/testing-9.1.2.tgz#98925cafab0cc92e0492d37ec17a6a7739b46a21"
   dependencies:
     tslib "2.4.0"
 
