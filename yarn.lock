@@ -3644,9 +3644,9 @@ expect@^28.1.3:
     jest-message-util "^28.1.3"
     jest-util "^28.1.3"
 
-express-rate-limit@*, express-rate-limit@^6.4.0:
-  version "6.4.0"
-  resolved "https://registry.npmjs.org/express-rate-limit/-/express-rate-limit-6.4.0.tgz"
+express-rate-limit@*, express-rate-limit@^6.7.0:
+  version "6.7.0"
+  resolved "https://registry.yarnpkg.com/express-rate-limit/-/express-rate-limit-6.7.0.tgz#6aa8a1bd63dfe79702267b3af1161a93afc1d3c2"
 
 express@4.18.1:
   version "4.18.1"
